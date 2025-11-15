@@ -154,7 +154,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **MKNSTEJA**
 
-- GitHub: [MKNSTEJA](https://github.com/MKNSTEJA)
+- GitHub: [Neko-Bytes](https://github.com/Neko-Bytes)
 - Email: chessmaniacs123@gmail.com
 
 ---
